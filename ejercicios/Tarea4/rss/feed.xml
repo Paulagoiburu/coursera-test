@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Lenguaje de marcas</title>
+  <link>https://es.000webhost.com/members/website/paulagoiburu/stats</link>
+  <description>FTP con mis ejercicios de HTML</description>
+  <item>
+    <title>Apuntes de XHTML</title>
+    <link>https://uniwebsidad.com/libros/xhtml</link>
+    <description>https://intranet.moodlecloud.com/course/view.php?id=4#section-3</description>
+  </item>
+  <item>
+    <title>Tarea 1</title>
+    <link>https://paulagoiburu.000webhostapp.com/index_Paula_Goiburu.html</link>
+    <description> Mi página web sobre HTML con un enlace a la fuente de la información </description>
+  </item>
+   <item>
+    <title>Tarea 2</title>
+    <link>https://paulagoiburu.000webhostapp.com/ej4_tarea4_Paula_Goiburu</link>
+    <description> Indice de actividades </description>
+  </item>
+   <item>
+    <title>Tarea 3</title>
+    <link>https://paulagoiburu.000webhostapp.com/index38_Paula_Goiburu.html</link>
+    <description> Ejemplo de etiqueta ins y del con enlaces a la fuente de información </description>
+  </item>
+   <item>
+    <title>Tarea 4</title>
+    <link>https://paulagoiburu.000webhostapp.com/index4_Paula_Goiburu.html</link>
+    <description> Tabla HTML </description>
+  </item>
+  <item>
+    <title>Tarea 5</title>
+    <link>https://paulagoiburu.000webhostapp.com/index_Paula_Goiburu</link>
+    <description> Resumen de ejercicios realizados </description>
+  </item>
+  <item>
+    <title>Tarea 6</title>
+    <link>https://paulagoiburu.000webhostapp.com/tarea63_Paula_Goiburu.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/tarea64_Paula_Goiburu.html</link>
+    <description> Realización de un mapeo de imagen e inserción de un video </description>
+  </item>
+  <item>
+    <title>Tarea 7</title>
+    <link>https://paulagoiburu.000webhostapp.com/ejercicio11.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/ejercicio12.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/ejercicio13.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura72.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura75.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura76.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura77.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura78.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura711.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura712.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura713.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/index_Paula_Goiburu.html</link>
+    <description> Realización de tablas complejas como sencillas introduciendo varios elementos como son colores, formatos o contenidos multimedia, también se modifica el documento index y el horario escolar </description>
+  </item>
+  <item>
+    <title>Tarea 8</title>
+    <link>https://paulagoiburu.000webhostapp.com/ejercicio14.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/ejercicio87.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/ejercicio86.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura85.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura84.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura83.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura16.html</link>
+	<link>https://paulagoiburu.000webhostapp.com/figura15.html</link>
+	<description>Realización de formularios complejos y sencillos con elementos mixtos</description>
+  </item>
+</channel>
+</rss>

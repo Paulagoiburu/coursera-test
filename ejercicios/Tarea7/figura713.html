@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+	<title>Ejemplo de tabla avanzada</title>
+<body> 
+	<h3><strong>ANALISIS DE VENTAS</strong></h3>
+	<style>
+			table{border-collapse: collapse;}
+			table, td, th {border: 1px solid black}
+	</style>
+	<table summary="Análisis de ventas anuales">
+		<caption>Análisis de ventas anuales</caption>
+	<colgroup span="1" style="background:pink;" />
+ 	<colgroup span="5" style="background:purple;" />
+	<thead>
+		<tr>
+     		<th rowspan="2" scope="col">AÑO</th>
+     		<th colspan="4" scope="col">Expansión de ventas</th>
+    	</tr>
+		<tr>
+      		<th scope="col">Producto A</th>
+      		<th scope="col">Producto B</th>
+      		<th scope="col">Producto C</th>
+      		<th scope="col">Producto D</th>
+   		</tr>
+   	</thead>
+	<tfoot>
+    <tr>
+      <th rowspan="2" scope="col">AÑO</th>
+      <th scope="col">Producto A</th>
+      <th scope="col">Producto B</th>
+      <th scope="col">Producto C</th>
+      <th scope="col">Producto D</th>
+    </tr>
+    <tr>
+      <th colspan="4" scope="col">Expansión de ventas</th>
+    </tr>
+  </tfoot>
+
+  <tbody>
+    <tr>
+      <th scope="row">N-3</th>
+      <th>-</th>
+      <th>-</th>
+      <th>-</th>
+      <th>-</th>
+    </tr>
+    <tr>
+      <th scope="row">N-2</th>
+      <td>3</td>
+      <td>5</td>
+      <td>8</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th scope="row">N-1</th>
+      <td>4</td>
+      <td>4</td>
+      <td>7</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th scope="row">N</th>
+      <td>5</td>
+      <td>7</td>
+      <td>6</td>
+      <td>2</td>
+    </tr>
+	</table>
+</body>
+</html>

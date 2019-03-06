@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<head>
+		<title>ejercicio87</title>
+		<link rel="alternate" type="application/rss+xml" title="Resumen del blog" href="rss/feed.xml"/>
+	</head>
+	<body>
+			<legend>Formulario de compra</legend>
+			<form action="/php/rellenar_datos.php" method="post">
+				<fieldset>
+				Nombre: <br/>
+				<input type="test" name="nombre" value="" size="20" maxlength="30">
+				
+				<br/>
+
+				<br/>
+				<select id="sug" name="sug">
+  					<option value="" selected="selected">- Tipo de tarjeta -</option>
+					<option value="VISA">VISA</option>
+					<option value="Mastercard">Mastercard</option>
+					<option value="Otro">Otro</option>
+				</select>
+
+				<br/>
+
+				<br/>
+				<label for="fecha_dia">Caducidad</label> <br/>
+  				<input type="text" size="3" maxlength="2" id="fecha_dia" name="fecha_dia" />
+ 				de
+  				<select id="fecha_mes" name="fecha_mes">
+				    <option value="1">Enero</option>
+				    <option value="2">Febrero</option>
+				    <option value="3">Marzo</option>
+				    <option value="4">Abril</option>
+				    <option value="5">Mayo</option>
+				    <option value="6">Junio</option>
+				    <option value="7">Julio</option>
+				    <option value="8">Agosto</option>
+				    <option value="9">Septiembre</option>
+				    <option value="10">Octubre</option>
+				    <option value="11">Noviembre</option>
+				    <option value="12">Diciembre</option>
+ 				</select>
+ 				de
+ 				<input type="text" size="5" maxlength="4" id="fecha_ano" name="fecha_ano" />
+
+
+				<br/>
+
+				<br/>
+				Nº de unidades a comprar: <br/>
+				<input type="test" name="nombre" value="" size="20" maxlength="30">
+
+				<br/>
+
+				<br/>
+				<label for="descripcion">Observaciones</label> <br/>
+ 				<textarea name="descripcion" id="descripcion" cols="40" rows="5"></textarea>
+
+ 				<br/>
+
+ 				<br/>
+ 				Entregar en: <br/>
+				<input type="test" name="nombre" value="" size="20" maxlength="30">
+
+				<br/>
+
+				<br/>
+				Horario: <br/>
+				<input type="test" name="nombre" value="" size="20" maxlength="30">
+
+				<br/>
+
+				<br/>
+				<select id="sug" name="sug">
+  					<option value="" selected="selected">- Como conoce nuestro website -</option>
+					<option value="amigos">amigos</option>
+					<option value="articulo">articulo</option>
+					<option value="google">google</option>
+				</select>
+
+				<br/>
+
+				<br/>
+				Valora nuestra web <br/>
+				<input type="radio" name="valora" value="bien" checked="checked"/> Bien <br/>
+				<input type="radio" name="valora" value="mal" checked="checked"/> Mal <br/>
+				<input type="radio" name="valora" value="regular" checked="checked"/> Regular <br/>
+
+				<br/>
+
+				<br/>
+				¿Quiere recibir mas información? <br/>
+				<input type="radio" name="recibir" value="Si" checked="checked"/> Si <br/>
+				<input type="radio" name="recibir" value="No" checked="checked"/> No <br/>
+
+				<br/>
+
+				<br/>
+				¿Quiere qué le llamemos por teléfono? <br/>
+				<input type="radio" name="llamar" value="si" checked="checked"/> Si <br/>
+				<input type="radio" name="llamar" value="no" checked="checked"/> No <br/>
+
+				<br/>
+			</fieldset>
+		</form>
+	</body>
+</html>
